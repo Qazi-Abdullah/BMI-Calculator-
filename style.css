@@ -1,0 +1,46 @@
+header{
+    text-align: center;
+    font-size: 4em;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: white;
+    background-color: black;
+
+}
+.form{
+    text-align: center;
+    padding: 2em;
+    background-color: rgb(102, 119, 126);
+
+}
+.heightlabel{
+    padding: 2em;
+    font-size: 2em;
+
+}
+.weightlabel{
+    padding: 2em;
+    font-size: 2em;
+
+}
+.heightInputFeet{
+    padding: 0.4em;
+    margin: 0.1em;
+
+}
+.heightInputField{
+    padding: 0.4em;
+    margin: o.1em;
+}
+.weightInputKg{
+    padding: 0.4em;
+}
+.button{
+    padding: 0.6em;
+    margin: 1em;
+    background-color: rgb(139, 139, 243);
+    font-size: o.7em;
+}
+.title{
+  text-align: center;  
+}
